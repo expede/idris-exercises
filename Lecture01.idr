@@ -70,7 +70,8 @@ cmp' (S k) (S j) with (cmp' k j)
 
 -- (b) Assume you have a vector xs : Vect a n, where n is unknown.
 --   How could you use cmp to construct a suitable input to vtake and vdrop from xs?
--- Huh? What is this even asking?
+
+-- >>> Huh? What is this even asking?
 
 --------------------------------------------------------------------------------
 -- 5. Implement the following functions:
